@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Auto Add Gchat Contacts", "Auto Add Gchat Contacts\Auto Add Gchat Contacts.vbproj", "{F92B4D81-4C87-4A8B-876A-E9DE301ECFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92B4D81-4C87-4A8B-876A-E9DE301ECFD0}.Debug|x86.ActiveCfg = Debug|x86
+		{F92B4D81-4C87-4A8B-876A-E9DE301ECFD0}.Debug|x86.Build.0 = Debug|x86
+		{F92B4D81-4C87-4A8B-876A-E9DE301ECFD0}.Release|x86.ActiveCfg = Release|x86
+		{F92B4D81-4C87-4A8B-876A-E9DE301ECFD0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
